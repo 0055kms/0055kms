@@ -1,5 +1,4 @@
-<div style="font-size: 0.5em; margin-bottom: 20px;">📧 <a href="mailto:dooly6276@gmail.com">dooly6276@gmail.com</a></div>
-<br>
+<div style="font-size: 0.5em; margin-bottom: 10px;">📧 <a href="mailto:dooly6276@gmail.com">dooly6276@gmail.com</a></div>
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <a href="https://www.acmicpc.net/user/river_mseok" style="font-weight: bold; text-decoration: none; color: #007bff;">➤ Baekjoon</a>
