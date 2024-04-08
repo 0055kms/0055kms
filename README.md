@@ -2,7 +2,7 @@
 <br>
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <a href="https://solved.ac/profile/river_mseok" style="font-weight: bold; text-decoration: none; color: #007bff;">➤ Baekjoon</a>
+    <a href="https://www.acmicpc.net/user/river_mseok" style="font-weight: bold; text-decoration: none; color: #007bff;">➤ Baekjoon</a>
   </div>
   <a href="https://solved.ac/river_mseok/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="Solved.ac Profile" height="130" />
