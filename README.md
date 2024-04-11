@@ -15,9 +15,7 @@
 </div>
 <div style="display: block; line-height: 1.2; margin-top: 5px;">
   <img src="https://cdn.class101.net/images/d847d522-7bd4-4008-9a15-6b4dee99e6fe" alt="Python Logo" style="height: 20px; vertical-align: middle;"/> Also, I am managing a Python algorithm study group
-
 </div>
-
 <a href=#><img src="aaa.svg"></a>
 
 
