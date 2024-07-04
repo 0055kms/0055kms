@@ -5,4 +5,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="r" style="display:inline-block; vertical-align:top; width:30%;">
   </a>
 </p>
-<img src="./a.svg" width="800">
+<img src="./a.svg" width="500">
