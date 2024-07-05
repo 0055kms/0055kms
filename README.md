@@ -1,7 +1,5 @@
 <p>
-  <a href="https://solved.ac/profile/river_mseok" target="_blank">
-    <small>➤ Baekjoon</small>
-  </a><br>
+  <small>➤ Baekjoon</small><br>
   <a href="https://solved.ac/profile/river_mseok" target="_blank">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top; width:45%;">
   </a>
