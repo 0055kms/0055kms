@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=망한%20깃허브&fontSize=50&animation=twinkling&text-color=black" alt="header" style="display:block; margin:0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome&fontSize=50&animation=twinkling&textColor=000000" alt="header" style="display:block; margin:0;">
 
 <h2 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h2>
 <p>
