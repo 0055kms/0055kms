@@ -1,17 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=&fontSize=50&animation=twinkling&text-color=black" alt="header" style="display:block; margin:0;">
 
-<h3 style="margin-top: -50px;"><b>🏅 Baekjoon</b></h3>
-<hr style="margin: 0; border: none; border-top: 0.5px solid #000;">
+<h2 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h2>
 <p>
   <a href="https://solved.ac/profile/river_mseok" target="_blank">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top; width:45%;">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top; width:50%;">
   </a>
 </p>
 
-<h3><b>🛠 Tech Stack </b></h3>
-<hr style="margin: 0; border: none; border-top: 0.5px solid #000;">
+<h2 style="margin-bottom: -10px;"><b>🛠 Tech Stack </b></h2>
 
-<h4>💪Main</h4>
+<h3 style="margin-bottom: -10px;">💪Main</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring" style="height:26px;"/>&nbsp
@@ -23,7 +21,7 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" alt="IntelliJ IDEA" style="height:26px;"/>&nbsp
 </p>
 
-<h4>🛠 I can</h4>
+<h3 style="margin-bottom: -10px;">🛠 I can</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" style="height:26px;"/>&nbsp
@@ -41,18 +39,17 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="height:26px;"/>&nbsp
 </p>
 
-<h4>📚 Currently learning</h4>
+<h3 style="margin-bottom: -10px;">📚 Currently learning</h3>
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" alt="NestJS" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React Native" style="height:26px;"/>&nbsp
 </p>
 
 <br style="line-height: 0.5;">
-<h3><b>📊 Github Stats</b></h3>
-<hr style="margin: 0; border: none; border-top: 0.5px solid #000;">
+<h2 style="margin-bottom: -10px;"><b>📊 Github Stats</b></h2>
 <p>
   <a href="https://github.com/0055kms">
     <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; width:56%;">
