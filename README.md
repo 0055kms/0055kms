@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=&fontSize=50&animation=twinkling&text-color=black" alt="header" style="display:block; margin:0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=망한%20깃허브&fontSize=50&animation=twinkling&text-color=black" alt="header" style="display:block; margin:0;">
 
 <h2 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h2>
 <p>
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="height:26px;"/>&nbsp
 </p>
 
-<h3 style="margin-bottom: -10px;">📚 Currently learning</h3>
+<h3 style="margin-bottom: -10px;">📚 Currently Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" alt="NestJS" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React Native" style="height:26px;"/>&nbsp
