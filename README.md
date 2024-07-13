@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome&fontSize=50&animation=twinkling&textColor=000000" alt="header" style="display:block; margin:0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=156&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&animation=twinkling&textColor=000000" alt="header" style="display:block; margin:0;">
+
 
 <h2 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h2>
 <p>
