@@ -55,12 +55,12 @@
 <hr style="margin: 0; border: none; border-top: 0.5px solid #000;">
 <p>
   <a href="https://github.com/0055kms">
-    <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; width:53%;">
+    <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; width:55%;">
   </a>
   <a href="https://github.com/0055kms">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; width:40%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; width:42%;">
   </a>
 </p>
 
-<img src="./a.svg" width="700" style="display:block; margin:0;">
+<img src="./a.svg" width="830" style="display:block; margin:0;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="footer" style="display:block; margin:0;">
