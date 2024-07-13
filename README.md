@@ -7,7 +7,6 @@
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top; width:45%;">
   </a>
 </p>
-<br style="line-height: 0.5;">
 
 <h3><b>🛠 Tech Stack </b></h3>
 <hr style="margin: 0; border: none; border-top: 0.5px solid #000;">
