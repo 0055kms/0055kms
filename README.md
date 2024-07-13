@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" alt="IntelliJ IDEA"/>&nbsp
 </p>
 
-<h4>🛠 I can use</h4>
+<h4>🛠 I can</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript"/>&nbsp
