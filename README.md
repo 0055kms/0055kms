@@ -7,7 +7,8 @@
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top; width:45%;">
   </a>
 </p>
-<br>
+<br style="line-height: 0.5;">
+
 <h3><b>🛠 Tech Stack </b></h3>
 <hr style="margin: 0; border: none; border-top: 0.5px solid #000;">
 
@@ -50,15 +51,15 @@
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React Native"/>&nbsp
 </p>
 
-<br>
+<br style="line-height: 0.5;">
 <h3><b>📊 Github Stats</b></h3>
 <hr style="margin: 0; border: none; border-top: 0.5px solid #000;">
 <p>
   <a href="https://github.com/0055kms">
-    <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; width:47%;">
+    <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; width:45%;">
   </a>
   <a href="https://github.com/0055kms">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; width:36%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; width:35%;">
   </a>
 </p>
 
