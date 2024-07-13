@@ -62,5 +62,5 @@
   </a>
 </p>
 
-<img src="./a.svg" width="860" style="display:block; margin:0;">
+<img src="./a.svg" width="890" style="display:block; margin:0;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="footer" style="display:block; margin:0;">
