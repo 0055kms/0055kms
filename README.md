@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" style="height:26px;"/>&nbsp<br>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" alt="PyCharm" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=white" alt="VSCode" style="height:26px;"/>&nbsp
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/H2 Database-003545?style=flat-square&logo=H2-Database&logoColor=white" alt="H2 Database" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black" alt="Swagger" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" style="height:26px;"/>&nbsp
