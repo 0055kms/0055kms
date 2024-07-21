@@ -56,6 +56,10 @@
   <a href="https://github.com/0055kms">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; width:43%;">
   </a>
+ <a href="https://github.com/0055kms">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0055kms&bg_color=ffffff&color=87CEEB&line=87CEEB&point=4682B4&hide_border=true&hide_title=true" alt="0055kms's GitHub Activity Graph" style="display:inline-block; vertical-align:top; width:100%;">
+ </a>
+
 </p>
 
 <img src="./a.svg" width="890" style="display:block; margin:0;">
