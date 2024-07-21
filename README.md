@@ -57,7 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; width:43%; margin: 0; padding: 0;">
   </a>
   <a href="https://github.com/0055kms" style="margin: 0; padding: 0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0055kms&bg_color=ffffff&color=000000&line=1E90FF&point=00008B&hide_title=true" alt="0055kms's GitHub Activity Graph" style="display:inline-block; vertical-align:top; width:110%; margin: 0; padding: 0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0055kms&bg_color=ffffff&color=000000&line=1E90FF&point=00008B&hide_title=true" alt="0055kms's GitHub Activity Graph" style="display:inline-block; vertical-align:top; width:200%; margin: 0; padding: 0;">
   </a>
 </p>
 
