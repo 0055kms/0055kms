@@ -1,7 +1,7 @@
 <h2 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h2>
 <p>
   <a href="https://solved.ac/profile/river_mseok" target="_blank">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top; width:45%;">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top;">
   </a>
 </p>
 
@@ -51,10 +51,10 @@
 <h2 style="margin-bottom: -10px;"><b>📊 Github Stats</b></h2>
 
   <a href="https://github.com/0055kms" style="margin: 0; padding: 0;">
-    <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; width:56%; margin: 0; padding: 0;">
+    <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; margin: 0; padding: 0;">
   </a>
   <a href="https://github.com/0055kms" style="margin: 0; padding: 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; width:43%; margin: 0; padding: 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; margin: 0; padding: 0;">
   </a>
 
 <img src="./a.svg" width="890" style="display:block; margin:0;">
