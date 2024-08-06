@@ -1,13 +1,14 @@
-<h2 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h2>
+<h3 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h3>
+<hr>
 <p>
   <a href="https://solved.ac/profile/river_mseok" target="_blank">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top;">
   </a>
 </p>
 
-<h2 style="margin-bottom: -10px;"><b>🛠 Tech Stack </b></h2>
-
-<h3 style="margin-bottom: -10px;">💪Main</h3>
+<h3 style="margin-bottom: -10px;"><b>🛠 Tech Stack </b></h3>
+<hr>
+<h4 style="margin-bottom: -10px;">💪Main</h4>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java"/>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring"/>&nbsp
@@ -20,7 +21,7 @@
 
 </p>
 
-<h3 style="margin-bottom: -10px;">🛠I can</h3>
+<h4 style="margin-bottom: -10px;">🛠I can</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript"/>&nbsp
@@ -43,7 +44,7 @@
 
 </p>
 
-<h3 style="margin-bottom: -10px;">📚Learning</h3>
+<h4 style="margin-bottom: -10px;">📚Learning</h4>
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" alt="NestJS"/>&nbsp
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React Native"/>&nbsp
@@ -51,8 +52,8 @@
 
 
 <br style="line-height: 0.5;">
-<h2 style="margin-bottom: -10px;"><b>📊 Github Stats</b></h2>
-
+<h3 style="margin-bottom: -10px;"><b>📊 Github Stats</b></h3>
+<hr>
   <a href="https://github.com/0055kms" style="margin: 0; padding: 0;">
     <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; margin: 0; padding: 0;">
   </a>
