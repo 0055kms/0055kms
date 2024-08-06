@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white" alt="Express.js" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" alt="C" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" style="height:26px;"/>&nbsp<br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" alt="PyCharm" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=white" alt="VSCode" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/SQL-FF4C00?style=flat-square&logo=Database&logoColor=white" alt="SQL" style="height:26px;"/>&nbsp
