@@ -34,12 +34,14 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" alt="PyCharm" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=white" alt="VSCode" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/SQL-FF4C00?style=flat-square&logo=Database&logoColor=white" alt="SQL" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/H2 Database-003545?style=flat-square&logo=H2-Database&logoColor=white" alt="H2 Database" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black" alt="Swagger" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="height:26px;"/>&nbsp
+ <img src="https://img.shields.io/badge/H2 Database-003545?style=flat-square&logo=H2-Database&logoColor=white" alt="H2 Database" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black" alt="Swagger" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" style="height:26px;"/>&nbsp
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="height:26px;"/>&nbsp
+
 </p>
 
 <h3 style="margin-bottom: -10px;">📚Learning</h3>
