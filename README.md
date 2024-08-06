@@ -57,4 +57,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; margin: 0; padding: 0;">
   </a>
 
-<img src="./a.svg" width="890" style="display:block; margin:0;">
+<img src="./a.svg" style="display:block; margin:0;">
