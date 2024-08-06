@@ -43,13 +43,13 @@
 </p>
 
 <h3 style="margin-bottom: -10px;">📚Learning</h3>
+
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" alt="NestJS" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React Native" style="height:26px;"/>&nbsp
 </p>
 
-<br style="line-height: 0.5;">
-<h2 style="margin-bottom: -10px;"><b>📊 Github Stats</b></h2>
+<h2 style="margin-top: 10px; margin-bottom: -10px;"><b>📊 Github Stats</b></h2>
 
   <a href="https://github.com/0055kms" style="margin: 0; padding: 0;">
     <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; margin: 0; padding: 0;">
