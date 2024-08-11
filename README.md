@@ -60,7 +60,7 @@
     <img src="https://readmestats.999857.xyz/api?username=0055kms&show_icons=true&locale=en" alt="0055kms's GitHub stats" style="display:inline-block; vertical-align:top; margin: 0; padding: 0;">
   </a>
   <a href="https://github.com/0055kms" style="margin: 0; padding: 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; margin: 0; padding: 0; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0055kms&layout=compact" alt="0055kms's Top Languages" style="display:inline-block; vertical-align:top; margin: 0; padding: 0; height: 195px;">
   </a>
 
 <img src="./a.svg">
