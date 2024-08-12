@@ -1,7 +1,7 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0055kms&count_bg=%23F7D794&title_bg=%23A29BFE&icon=&icon_color=%23FFFFFF&title=visit%20%3D%20defaultdict%28lambda%3A%20defaultdict%28bool%29%29&edge_flat=false"  height="23"/>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn&section=footer&text=🔙🔚👨🏻‍💻&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 <h2 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h2>
 <p>
