@@ -3,7 +3,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-<h2 style="margin-top: -50px; margin-bottom: -10px;"><b>🏅 Baekjoon</b></h2>
+<h2 style="margin-top: -50px; margin-bottom: -10px;">
+  <a href="https://solved.ac/profile/river_mseok" target="_blank" style="text-decoration: none;">
+    <b>🏅 Baekjoon</b>
+  </a>
+</h2>
+
 <p>
   <a href="https://solved.ac/profile/river_mseok" target="_blank">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=river_mseok" alt="r" style="display:inline-block; vertical-align:top;">
