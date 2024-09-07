@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" alt="Flask" style="height:26px;"/>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" alt="NestJS" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white" alt="Express.js" style="height:26px;"/>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React" style="height:26px;"/>&nbsp
